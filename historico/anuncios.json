@@ -1067,6 +1067,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1410123211297235": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO, Palmas, TO",
+  "mod": "apartamento · 3 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    13000
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "3 quartos 3 banheiros Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "1410678144375061": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -2112,6 +2129,23 @@
   "titulo": "2 quartos 2 banheiros – Apartamento",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1772363020679279": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Ed. Office Center, ARNE 51 Alameda 28, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "1775637256904711": {
   "cat": "casa",
@@ -3332,6 +3366,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "28263190126707301": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "Quadra 105 Norte Alameda das Aroeiras, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    2650
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "28302687832681091": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -3658,6 +3709,23 @@
   "titulo": "ALUGOU SALA COMERCIAL",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "4626725134208014": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    2900
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "481767776513346": {
   "data_status": "2026-10-08",
