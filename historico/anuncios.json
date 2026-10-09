@@ -293,7 +293,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1067075552912450": {
   "cat": "casa",
@@ -310,7 +311,8 @@
   "status": "ativo",
   "titulo": "3 quartos 3 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1067459266165912": {
   "cat": "kitnet",
@@ -688,7 +690,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1270412821897924": {
   "cat": "casa",
@@ -721,7 +724,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1290193776623693": {
   "data_status": "2026-10-08",
@@ -785,7 +789,8 @@
   "status": "ativo",
   "titulo": "Chácara para eventos",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1295064549379226": {
   "cat": "apartamento",
@@ -802,7 +807,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1295962522623591": {
   "cat": "apartamento",
@@ -1082,7 +1088,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1391452693148117": {
   "cat": "casa",
@@ -1150,7 +1157,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1411761087625808": {
   "data_status": "2026-10-08",
@@ -1249,7 +1257,8 @@
   "status": "ativo",
   "titulo": "Estúdio 1 banheiro Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1438843381512790": {
   "cat": "sala comercial",
@@ -1299,7 +1308,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1453384786604478": {
   "cat": "outro",
@@ -1500,7 +1510,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1546129027550113": {
   "data_status": "2026-10-08",
@@ -1628,7 +1639,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1590071902103586": {
   "cat": "quarto",
@@ -1777,7 +1789,8 @@
   "status": "ativo",
   "titulo": "Estúdio 2 banheiros Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1635616541612895": {
   "cat": "apartamento",
@@ -1828,7 +1841,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1642556997307504": {
   "cat": "sala comercial",
@@ -1913,7 +1927,8 @@
   "status": "ativo",
   "titulo": "Aluga-se sala comercial",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1678639493247227": {
   "cat": "apartamento",
@@ -1997,7 +2012,8 @@
   "status": "ativo",
   "titulo": "3 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1698404108051985": {
   "data_status": "2026-10-08",
@@ -2096,7 +2112,8 @@
   "status": "ativo",
   "titulo": "Aluguel",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1742903196992316": {
   "cat": "casa",
@@ -2129,7 +2146,8 @@
   "status": "ativo",
   "titulo": "Casa 2/4 PARCELADA",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1752805452514152": {
   "cat": "apartamento",
@@ -2163,7 +2181,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1765533741473810": {
   "data_status": "2026-10-08",
@@ -2314,7 +2333,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1797985968286790": {
   "cat": "apartamento",
@@ -2348,7 +2368,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1802128990977163": {
   "cat": "casa",
@@ -2500,7 +2521,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1864710674913761": {
   "data_status": "2026-10-08",
@@ -2618,7 +2640,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1952247628789121": {
   "data_status": "2026-10-08",
@@ -2634,7 +2657,8 @@
   "status": "ativo",
   "titulo": "Procurando moradia em Palmas",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1954011178906450": {
   "cat": "kitnet",
@@ -2651,7 +2675,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "1966980550679390": {
   "cat": "casa",
@@ -2784,7 +2809,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "2079433626331860": {
   "data_status": "2026-10-08",
@@ -2851,7 +2877,8 @@
   "status": "ativo",
   "titulo": "Estúdio 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "2103923520503102": {
   "cat": "sobrado",
@@ -2969,7 +2996,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "2162121187669505": {
   "data_status": "2026-10-08",
@@ -3216,7 +3244,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "2352354135571617": {
   "cat": "apartamento",
@@ -3382,7 +3411,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "26193384377025140": {
   "data_status": "2026-10-08",
@@ -3516,7 +3546,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "28334575539541846": {
   "data_status": "2026-10-08",
@@ -3604,7 +3635,7 @@
  },
  "28850530147874099": {
   "cat": "casa",
-  "data_status": "2026-10-08",
+  "data_status": "2026-10-09",
   "local": "Palmas, TO",
   "mod": "casa · 2 quartos",
   "precos": [
@@ -3614,10 +3645,11 @@
    ]
   ],
   "primeiro_visto": "2026-10-08",
-  "status": "ativo",
+  "status": "apagado",
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-08",
+  "verificado": "2026-10-09"
  },
  "28874874308780984": {
   "data_status": "2026-10-08",
@@ -3679,7 +3711,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "305168964966841": {
   "data_status": "2026-10-08",
@@ -3727,7 +3760,8 @@
   "status": "ativo",
   "titulo": "2 habitaciones 1 baño - Departamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "37723764590604836": {
   "data_status": "2026-10-08",
@@ -3743,7 +3777,8 @@
   "status": "ativo",
   "titulo": "CASA DE EVENTOS",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "3904554119846739": {
   "cat": "casa",
@@ -3777,7 +3812,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "4322292814692023": {
   "data_status": "2026-10-08",
@@ -3959,7 +3995,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "767091403153753": {
   "data_status": "2026-10-08",
@@ -4075,7 +4112,8 @@
   "status": "ativo",
   "titulo": "2 quartos 3 banheiros Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "918112481094698": {
   "cat": "kitnet",
@@ -4210,7 +4248,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  },
  "955536316895061": {
   "cat": "apartamento",
@@ -4345,6 +4384,7 @@
   "status": "ativo",
   "titulo": "Casa para Aluguel de Eventos",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-09",
+  "verificado": "2026-10-09"
  }
 }
