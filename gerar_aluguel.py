@@ -155,18 +155,22 @@ def planilha(validos, todos, hoje):
     return arq
 
 
-def tira(fotos_b64, lado=380, maxf=5):
+def tira(id_, fotos_b64, lado=380, maxf=5):
+    """Tira de fotos em s/<id>.jpg (criada uma vez só; a página aponta para o arquivo)."""
     fotos = fotos_b64[:maxf]
     if not fotos:
         return "", 0
+    arq = os.path.join(AQUI, "s", f"{id_}.jpg")
+    if os.path.exists(arq):
+        return f"s/{id_}.jpg", len(fotos)
+    os.makedirs(os.path.dirname(arq), exist_ok=True)
     t = Image.new("RGB", (lado * len(fotos), lado), (0, 0, 0))
     for k, b in enumerate(fotos):
         im = Image.open(io.BytesIO(base64.b64decode(b))).convert("RGB")
         im.thumbnail((lado, lado))
         t.paste(im, (k * lado + (lado - im.width) // 2, (lado - im.height) // 2))
-    buf = io.BytesIO()
-    t.save(buf, "JPEG", quality=52, optimize=True)
-    return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode(), len(fotos)
+    t.save(arq, "JPEG", quality=52, optimize=True)
+    return f"s/{id_}.jpg", len(fotos)
 
 
 def pagina(validos, hoje):
@@ -177,7 +181,7 @@ def pagina(validos, hoje):
     for i in validos:
         v = grupos[(i["tipo"], faixa_quartos(i["quartos"]))]
         vs = round((i["mensal"] / media(v) - 1) * 100) if len(v) >= 4 else None
-        src, nf = tira(i["fotos"])
+        src, nf = tira(i["id"], i["fotos"])
         D.append({"id": i["id"], "tipo": i["tipo"], "q": faixa_quartos(i["quartos"]), "regiao": i["regiao"] or "não informado",
                   "bairro": i["bairro"], "preco": i["mensal"], "titulo": i["titulo"], "mob": i["mobiliado"] or "",
                   "area": i["area_m2"], "desc": i["descricao"], "obs": i["obs"], "link": i["link"], "vs": vs,
@@ -187,6 +191,10 @@ def pagina(validos, hoje):
     resumo = {"medias": medias, "vendas": historico.resumo(historico.carregar(AQUI))}
     html = MODELO.replace("__DADOS__", json.dumps(D, ensure_ascii=False).replace("</", "<\\/")) \
         .replace("__RESUMO__", json.dumps(resumo, ensure_ascii=False)).replace("__DATA__", f"{hoje:%d/%m/%Y}")
+    ids = {d["id"] for d in D}
+    for f in glob.glob(os.path.join(AQUI, "s", "*.jpg")):  # quem saiu da página leva a tira junto
+        if os.path.splitext(os.path.basename(f))[0] not in ids:
+            os.remove(f)
     arq = os.path.join(AQUI, "index.html")
     open(arq, "w", encoding="utf-8").write(html)
     return arq, len(html.encode()) / 1e6
