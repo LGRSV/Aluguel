@@ -1108,6 +1108,25 @@
   "ultima_coleta": "2026-10-09",
   "ultimo_ativo": "2026-10-09"
  },
+ "1398553259159946": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    450
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "alugo studio com vários equipamentos",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Nocturnne Piercing Palmas To",
+  "vendedor_id": "61587387697439"
+ },
  "1406513084403743": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
@@ -2219,6 +2238,24 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1754085762515654": {
+  "data_status": "2026-10-09",
+  "local": "Quadra 202 Sul Rua Ns a, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "39 quartos 23 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Roberto Rodrigues",
+  "vendedor_id": "pfbid02gRqRgwSy3Fka475qq24wwxHqJeW4m42EYfsUJjZtr76C7PwgqtzdYQFrpveeyLAPl"
+ },
  "1763590428166459": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -3319,6 +3356,24 @@
   "titulo": "Casa de eventos Palmas",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "2315954525845716": {
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    120000
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "CENDO SALÃO / STUDIO DE BELEZA",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Fernanda Nunes",
+  "vendedor_id": "pfbid02NBorWjDUqJ9oks4xopWuXQmvSqEb52dsJK6C78WqPpi8KeZESinzGWrcyD77B8Nel"
  },
  "2321837631686597": {
   "cat": "casa",
