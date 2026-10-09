@@ -149,6 +149,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1043052035360612": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "Alameda 15 Qd 1504 Sul, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    1650
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "1044144855294650": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -1266,6 +1283,23 @@
   "titulo": "Aluga ponto comercial",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1454829483207696": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "Condomínio Mirante du Park, 306 S, Palmas - TO, Brasil, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    2400
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "1463731198955024": {
   "cat": "apartamento",
@@ -3527,6 +3561,23 @@
   "titulo": "Espaço para locação jm eventos locação",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "29074849438813406": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "Quadra 106 Norte Alameda 01, Palmas, TO",
+  "mod": "apartamento · 1 quarto",
+  "precos": [
+   [
+    "2026-10-09",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "2911795175832288": {
   "cat": "apartamento",
