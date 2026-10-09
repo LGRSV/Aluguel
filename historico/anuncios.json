@@ -1395,6 +1395,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1496698592307881": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    1900
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "SALA COMERCIAL",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "1516324216515090": {
   "data_status": "2026-10-08",
   "local": "Palmas, TO",
@@ -2098,6 +2115,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1734725904263318": {
+  "cat": "kitnet",
+  "data_status": "2026-10-09",
+  "local": "Quadra 104 Norte Rua Ne 7, 24, Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-09",
+    1700
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "1739349734163114": {
   "data_status": "2026-10-08",
   "local": "Palmas, TO",
@@ -2405,6 +2439,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1818341306191850": {
+  "cat": "casa",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-09",
+    1650
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "1819282715733976": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -2489,6 +2540,23 @@
   "titulo": "1 quarto 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1859470462088857": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    1900
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "SALA COMERCIAL PARA ALUGAR",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "1859480558417077": {
   "data_status": "2026-10-08",
@@ -4096,6 +4164,23 @@
   "titulo": "Estúdio 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "888833770864797": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "Alameda 15 Qd 1504 Sul, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "916714001063094": {
   "cat": "sobrado",
