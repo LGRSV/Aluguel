@@ -1,0 +1,7 @@
+dados/
+fotos/
+planilhas/
+pagina/
+__pycache__/
+*.log
+*.tmp

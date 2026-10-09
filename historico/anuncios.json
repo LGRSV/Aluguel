@@ -1,0 +1,4061 @@
+{
+ "1002428812142384": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    4800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "CASA 505 sul - aluga-se 3/4",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1007129908797139": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 606 Sul Alameda Mabe, Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1015406634881173": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "ARSE 131 Avenida LO 29, 4, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1024021281534968": {
+  "data_status": "2026-10-08",
+  "local": "Chácara Luar do Lago, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara recantos dos Buritis",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1025442323598026": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1026784890249870": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2299
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluguel Casa Condomínio",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1030493303114257": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    110
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Kitnet",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1034281668970050": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro –",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1034519025863882": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Rua Professor Ribamar, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1044144855294650": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1046074611356834": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 1203 Sul Alameda 15, 22, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1048745491041368": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Luzimangues, Porto Nacional, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1050993557439921": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Quadra 103 Sul So 5, Palmas, TO",
+  "mod": "sala comercial · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1056640027302192": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1059004183740452": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    30000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "CASA 3/4 PARCELADA",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1062771026666570": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Alugo Salas comerciais - Luzimangues",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1066620539412024": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 1203 Sul Alameda 22, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1067075552912450": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Rua Ps 11 Quadra 22, Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1067459266165912": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 0 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1074119005481016": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Quadra 612 Sul Alameda 7, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1077383368600230": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "SALAS COMERCIAIS",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1077719991708060": {
+  "data_status": "2026-10-08",
+  "local": "Rua Firmino Mendes, Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1078132514609874": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Moveis planejados",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1080519537703850": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Alameda 2 1503 Sul, Palmas, TO",
+  "mod": "apartamento · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1081028351078807": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Luzimangues, Porto Nacional, TO",
+  "mod": "apartamento · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1087963173945511": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    2400
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1089797014894037": {
+  "data_status": "2026-10-08",
+  "local": "Chácara Luar Do lago eventos, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chacara recantos dos Buritis",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1092639956465275": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1095294919576128": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Rua T 05, 6, Palmas, TO",
+  "mod": "apartamento · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1097127052838863": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1100163669369557": {
+  "cat": "quarto",
+  "data_status": "2026-10-08",
+  "local": "Residencial Águas da Serra, ARNO 42 Alameda 8, Palmas, TO",
+  "mod": "quarto · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Quarto privativo para alugar",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1101974485623563": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1125962719999947": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Sobrado pra alugar na 1204 Sul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1127054789007834": {
+  "data_status": "2026-10-08",
+  "local": "TO-010, Lajeado, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1128599789599210": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Avenida Morro Branco, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1250
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1138669729952512": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1154191517073645": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2850
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1191384029519411": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "VENHA FAZER PARTE DO NOSSO GRUPO DE PORTO NACIONAL",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1209586844649315": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "letreiro interno e externo",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1249563567205579": {
+  "cat": "terreno",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "terreno · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 0 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1267017592189039": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1279408520345977": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1290193776623693": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 4 banheiros – Casa em Vila",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1290998936154384": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1111111
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1292006456334037": {
+  "data_status": "2026-10-08",
+  "local": "📍Bertaville, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1294893486007652": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    750
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara para eventos",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1295064549379226": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1650
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1295962522623591": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1297170202456220": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Alugo apartamento 100% mobiliado",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1304307357991807": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1324770336249724": {
+  "cat": "quarto",
+  "data_status": "2026-10-08",
+  "local": "Residencial Morada do Ipê, 308 S, Palmas - TO, 77021-066, Brasil, Palmas, TO",
+  "mod": "quarto · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    750
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1328029516073309": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1332162035770143": {
+  "cat": "outro",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "outro · —",
+  "precos": [
+   [
+    "2026-10-08",
+    4000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Imóvel comercial",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1345358973947114": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 4+ quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    7000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "4 quartos 4 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1353188736949933": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Espaço para locação",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1356454032545592": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1360151492818145": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1367352402255936": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1350
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1370424440078164": {
+  "data_status": "2026-10-08",
+  "local": "Chácara Luar Do lago eventos, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1371893961028230": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 402 Norte, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1377297984375563": {
+  "data_status": "2026-10-08",
+  "local": "Rua Rio Negro, Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1377577267037634": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1400
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1386256263676365": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 1406 Sul Alameda 12, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1406513084403743": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 612 Sul Alameda 8, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1410678144375061": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1411761087625808": {
+  "data_status": "2026-10-08",
+  "local": "Avenida Tocantins, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1418235652997978": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1422175896427697": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    850
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1424143762468069": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 402 Norte, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1899
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1434188458512799": {
+  "cat": "quarto",
+  "data_status": "2026-10-08",
+  "local": "Quadra 105 Norte Alameda das Aroeiras, Palmas, TO",
+  "mod": "quarto · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1650
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Quarto privado para alugar",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1434697771360576": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1438843381512790": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Setor lago sul, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1445870970744271": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1448275343896345": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1453384786604478": {
+  "cat": "outro",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "outro · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga ponto comercial",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1463731198955024": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 405 Sul Alameda 12, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1468992021663820": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1473760957555955": {
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 5 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1516324216515090": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1519040329389417": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1519623966638649": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1520692646048099": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Quadra 305 Norte Avenida Lo 10, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    2900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1532529588566801": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se AP 105 norte",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1545236310184233": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 1504 Sul Avenida Lo 33, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1546129027550113": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "ALUGUEL EM PALMAS",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1547005456870574": {
+  "data_status": "2026-10-08",
+  "local": "jardin Taquari palmas To, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    650
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1562266924251240": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1567167938295274": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara para locação",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1571731694507957": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 208 Norte Alameda 24, Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    5500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1571966590878003": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Setor lago sul, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1572989317503476": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "603 sul, Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1580863249805957": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Alameda das Aroeiras Qd 105 Norte, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1590071902103586": {
+  "cat": "quarto",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "quarto · 4+ quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    750
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "10 quartos 10 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1591329629164337": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Avenida Luís Leite Ribeiro, Porto Nacional, TO",
+  "mod": "apartamento · 4+ quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "4 quartos 3 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1591901159053846": {
+  "data_status": "2026-10-08",
+  "local": "Quadra 704 Sul Alameda 16, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1596877432158491": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    450
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1600926698172714": {
+  "data_status": "2026-10-08",
+  "local": "Agrotins, Palmas - TO, Brasil, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "5 quartos 5 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1609386677493143": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 309 Sul Rua 18, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Kitnet Famíliar",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1611960777323511": {
+  "data_status": "2026-10-08",
+  "local": "Praia da Graciosa, ALC-SO 34 Avenida Orla, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    350
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1612819793917056": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    950
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1618173286556513": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Quadra 1104 Sul Avenida Lo 25, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 2 banheiros Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1635616541612895": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 1406 Sul Alameda 12, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1635729198205265": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1639767161104931": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Avenida Pedro Ludovico, Porto Nacional, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1642556997307504": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Sobrado geminado",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1656515599203384": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 604 Sul Alameda 16, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1661736421718854": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Alameda das Aroeiras Qd 105 Norte, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1674942370311138": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se sala comercial",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1678639493247227": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1680706599703363": {
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluguel de ground",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1685176429330313": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    4000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se Sobrado 904 sul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1689824805503227": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    3200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Flat 100% mobiliado locação",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1693058675270054": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 407 Norte Alameda 13, Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1698404108051985": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Monitor Gamer 27 polegadas 180HZ IPS 1ms",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1718760136067548": {
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1725069902124903": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "ALUGO CASA PORTO NACIONAL 🏠 Rua Cruzeiro do sul esquina .",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1725240805236957": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 309 Norte Alameda 7, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1729579161488795": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    5000000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 3 banheiros Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1739349734163114": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    90
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluguel",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1742903196992316": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1751281929447244": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    22000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Casa 2/4 PARCELADA",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1752805452514152": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1763590428166459": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 404 Norte Alameda 17A, Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1765533741473810": {
+  "data_status": "2026-10-08",
+  "local": "Avenida Trajano Coêlho Neto, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1765585354646983": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    950
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1765805751235022": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2350
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1775637256904711": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1779088443123422": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1780068756252764": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Quadra 603 Norte Alameda 23, 19, Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1780574053083834": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Rua T 12, Palmas, TO",
+  "mod": "sobrado · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1790385705421592": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1797985968286790": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1799620941077104": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1802128990977163": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Rua MS 10, 20a, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1806913263785428": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1400
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1819282715733976": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga - se",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1825004588669210": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 203 Norte Alameda 06, Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1825924598823016": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Setor lago sul, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1833314927625468": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Sobrado geminado",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1858053052027799": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1859480558417077": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Casa de eventos promoção para essa sexta",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1864034934566896": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Alameda 15 Qd 1504 Sul, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1864710674913761": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    50000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Saia já do aluguel | piscina 🏠",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1876355143781378": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO, Porto Nacional, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1881404039718458": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1883973192608800": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1884394829207911": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    550
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1903113270355442": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO, Porto Nacional, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1913209119345248": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 606 Sul Alameda Ceschiatti, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1952247628789121": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Procurando moradia em Palmas",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1954011178906450": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Quadra 1406 Sul Alameda 12, Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1966980550679390": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Luzimangues, Porto Nacional, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1969543180388379": {
+  "cat": "outro",
+  "data_status": "2026-10-08",
+  "local": "Alameda 29 1503 Sul, Palmas, TO",
+  "mod": "outro · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1973652173333674": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se sobrado 3/4",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "1993523461359557": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara para locação",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2000681017172579": {
+  "data_status": "2026-10-08",
+  "local": "Alameda 34 Quadra 1503 Sul, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    290
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2010730323172790": {
+  "data_status": "2026-10-08",
+  "local": "Avenida Tocantins, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2013131159389537": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Residencial Bom Sucesso, 504 N, Palmas - TO, 77006-570, Brasil, Palmas, TO",
+  "mod": "apartamento · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2042685069689240": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2079433626331860": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2088398632088577": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "aluga-se flat 1503 sul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2092572415009235": {
+  "cat": "outro",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO, Palmas, TO",
+  "mod": "outro · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2092607522131920": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2103923520503102": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · —",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se+sobrado+mobiliado+1204",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2107885206460862": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    35000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Casa 3/4 PARCELADA",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2111324536146610": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2122412602026765": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2129879927574637": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2135498300329790": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 4+ quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    5500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "aluga - se mansão 106 sul (centro)",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2149444142600833": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2162121187669505": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2164975061569021": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "​🏢 OPORTUNIDADE: APARTAMENTO 405 n DE 2 QUARTOS PRONTO PARA MORAR! 🏢atenção localizado 405 norte",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2173818643163360": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Alugo AP 405 SUL",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2207938543322637": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluguel de sala comercial na 103 sul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2234431050759881": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2243118876423872": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Porto-Luzimangues, Porto Nacional - TO, 77500-000, Brasil, Porto Nacional, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2253727225374657": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Quadra 704 Sul Alameda 04, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Quarto privado para alugar",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2285956722222285": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluguel ou venda",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2302387273904630": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    850
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Casa de eventos Palmas",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2321837631686597": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2323453305062657": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Rua 13, Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2347407722332208": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Quadra 305 Norte Avenida Lo 10, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    2990
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2363489927731621": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Rua 33, 15, Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2368426560595151": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 412 Norte Alameda 3, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2377946759349942": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2444080826115861": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2523849174788734": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2542757969446624": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 18 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2565996210519132": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    150
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "FLATS MOBILIADOS POR TEMPORADA",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2593532144440274": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    850
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Casa de Eventos",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2602715566818514": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "26193384377025140": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    250
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2660810544372618": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Avenida Ipanema, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2714423558953554": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    5200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "27533946196269585": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "CAMPOS IMOBILIÁRIA ALUGA CASA SETOR SANTA FÉ!",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "28067594039599347": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    5500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "🚨 OPORTUNIDADE: SALA COMERCIAL DISPONÍVEL PARA LOCAÇÃO 🚨",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "28302687832681091": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2833175977039882": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "28334575539541846": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2847089699016656": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Quadra 912 Sul Alameda 03, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Sobrado geminado",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "28628151543511862": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2871678383232478": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Quadra 612 Sul Alameda 8, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "28770155429263242": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "77001-050 Palmas, TO, Palmas, TO",
+  "mod": "sobrado · 4+ quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "4 quartos 3 banheiros Sobrado geminado",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "28850530147874099": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "28874874308780984": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Espaço para locação jm eventos locação",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "2911795175832288": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    550
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "29331576783142529": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas Orla 14, Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "305168964966841": {
+  "data_status": "2026-10-08",
+  "local": "Chácara Luar do Lago, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara recantos dos Buritis",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "3186884534844820": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2024 Honda cg160",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "3489829834512358": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 habitaciones 1 baño - Departamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "37723764590604836": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    850
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "CASA DE EVENTOS",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "3904554119846739": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    4000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "4190081804628368": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Luzimangues, Porto Nacional, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "4322292814692023": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara para locação",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "4405358553110647": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Residencial Noel Rosa, Quadra 806 Sul Avenida Ns 4, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Apartamento com 2 quartos e 2 casas de banho",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "4447858872127302": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "ALUGOU SALA COMERCIAL",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "481767776513346": {
+  "data_status": "2026-10-08",
+  "local": "Chácara Luar Do lago eventos, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Chácara",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "4906629462882326": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · —",
+  "precos": [
+   [
+    "2026-10-08",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "ALUGAND0 CASA TO",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "498103436641485": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO",
+  "mod": "casa · 4+ quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "4 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "620848467317498": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    1900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "636141819093511": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 4 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "674433635023151": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    986
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "757360426732725": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    140
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "767091403153753": {
+  "data_status": "2026-10-08",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "770262128657963": {
+  "data_status": "2026-10-08",
+  "local": "taquaralto, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    750
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "773943752443069": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Apartamento para locação",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "860031377180535": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    4900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga- se sobrado 405 sul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "866134349728991": {
+  "data_status": "2026-10-08",
+  "local": "taquaralto, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    750
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Estúdio 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "916714001063094": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 3 banheiros Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "918112481094698": {
+  "cat": "kitnet",
+  "data_status": "2026-10-08",
+  "local": "Porto Nacional, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    750
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 habitación 1 baño - Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "926327810424538": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    5000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "aluga- se casa 307 sul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "929135809989907": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2690
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se apartamento Palmeira azul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "933247136504672": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sobrado · —",
+  "precos": [
+   [
+    "2026-10-08",
+    3300
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga se sobrado 305 sul",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "944510881971507": {
+  "cat": "outro",
+  "data_status": "2026-10-08",
+  "local": "Avenida G, Palmas, TO",
+  "mod": "outro · —",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "947345648405872": {
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    950
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "1 quarto 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "953944997790390": {
+  "cat": "sobrado",
+  "data_status": "2026-10-08",
+  "local": "Quadra 205 Sul Avenida Lo 05, 4, Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Sobrado geminado",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "954135721100365": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Quadra 706 Sul Alameda 12, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "955536316895061": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "961107506406692": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    1600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "968351476206143": {
+  "cat": "apartamento",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "apartamento · —",
+  "precos": [
+   [
+    "2026-10-08",
+    5500
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "ALUGA-SE – APARTAMENTO 100% mobiliado",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "972338795896397": {
+  "cat": "quarto",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "quarto · 1 quarto",
+  "precos": [
+   [
+    "2026-10-08",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Aluga-se+Quartos+",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "977531331764591": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-08",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Alugo sala comercial",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "988276487449300": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Alameda 15 Qd 1504 Sul, Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "989167500861937": {
+  "cat": "casa",
+  "data_status": "2026-10-08",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-08",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ },
+ "999280990985456": {
+  "data_status": "2026-10-08",
+  "local": "Alameda Braguinha Barroso, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-08",
+    600
+   ]
+  ],
+  "primeiro_visto": "2026-10-08",
+  "status": "ativo",
+  "titulo": "Casa para Aluguel de Eventos",
+  "ultima_coleta": "2026-10-08",
+  "ultimo_ativo": "2026-10-08"
+ }
+}
