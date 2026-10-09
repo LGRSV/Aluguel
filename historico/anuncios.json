@@ -1349,6 +1349,22 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1532326758660339": {
+  "data_status": "2026-10-09",
+  "local": "Quadra 806 Sul Alameda 10 a, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    2200
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "1532529588566801": {
   "cat": "apartamento",
   "data_status": "2026-10-08",

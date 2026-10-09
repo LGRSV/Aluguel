@@ -21,7 +21,7 @@ import statistics
 import subprocess
 import sys
 from collections import defaultdict
-from datetime import date
+from datetime import date, timedelta
 
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Font, PatternFill
@@ -181,7 +181,7 @@ def pagina(validos, hoje):
         D.append({"id": i["id"], "tipo": i["tipo"], "q": faixa_quartos(i["quartos"]), "regiao": i["regiao"] or "não informado",
                   "bairro": i["bairro"], "preco": i["mensal"], "titulo": i["titulo"], "mob": i["mobiliado"] or "",
                   "area": i["area_m2"], "desc": i["descricao"], "obs": i["obs"], "link": i["link"], "vs": vs,
-                  "media": media(v), "n": len(v), "tira": src, "nf": nf})
+                  "media": media(v), "n": len(v), "tira": src, "nf": nf, "novo": i.get("novo", False)})
     medias = sorted(([f"{t} · {q}", media(v), len(v)] for (t, q), v in grupos.items() if len(v) >= 2), key=lambda x: -x[2])
     historico.definir_modelos(AQUI, {i["id"]: (i["tipo"], f"{i['tipo']} · {faixa_quartos(i['quartos'])}") for i in validos})
     resumo = {"medias": medias, "vendas": historico.resumo(historico.carregar(AQUI))}
@@ -196,7 +196,12 @@ def main():
     itens = carregar()
     print(f"{len(itens)} anúncios lidos")
     caminho = os.path.join(DADOS, "classificacao.json")
-    cls = json.load(open(caminho, encoding="utf-8")) if "--sem-haiku" in sys.argv and os.path.exists(caminho) else classificar(itens)
+    cls = json.load(open(caminho, encoding="utf-8")) if os.path.exists(caminho) else {}
+    faltam = [i for i in itens if i["id"] not in cls]
+    if faltam and "--sem-haiku" not in sys.argv:  # incremental: só os anúncios ainda não classificados
+        print(f"{len(faltam)} anúncios novos para o Haiku")
+        cls = {**cls, **classificar(faltam)}
+        json.dump(cls, open(caminho, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     todos = []
     for i in itens:
         c = cls.get(i["id"], {})
@@ -209,7 +214,12 @@ def main():
                       "link": f"https://www.facebook.com/marketplace/item/{i['id']}/"})
     validos = [i for i in todos if i["finalidade"] == "aluguel" and i["na_regiao"] and i["mensal"] and 150 <= i["mensal"] <= 50000]
     hoje = date.today()
-    print("planilha:", planilha(validos, todos, hoje))
+    H = historico.carregar(AQUI)
+    validos = [i for i in validos if H.get(i["id"], {}).get("status", "ativo") == "ativo"]  # alugados/apagados saem da página
+    if "--diario" not in sys.argv:  # planilhas só na coleta completa (o histórico do Excel é semanal)
+        print("planilha:", planilha(validos, todos, hoje))
+    for i in validos:
+        i["novo"] = H.get(i["id"], {}).get("primeiro_visto", "") >= (hoje - timedelta(days=1)).isoformat()
     arq, mb = pagina(validos, hoje)
     print(f"página: {arq} ({mb:.1f} MB)")
     por_tipo = defaultdict(list)
@@ -256,7 +266,7 @@ main{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:
 <header><h1>Aluguel em Palmas — Facebook Marketplace</h1>
 <div class="sub" id="sub"></div>
 <div class="bar"><select id="ftipo"></select><select id="fq"></select><select id="freg"></select>
-<select id="ord"><option value="p">Menor aluguel</option><option value="P">Maior aluguel</option><option value="v">Mais abaixo da média</option></select>
+<select id="ord"><option value="p">Menor aluguel</option><option value="P">Maior aluguel</option><option value="v">Mais abaixo da média</option><option value="n">Novos primeiro</option></select>
 <input id="q" placeholder="Buscar (bairro, mobiliado, piscina...)"></div></header>
 <div class="wrap">
 <details><summary>Aluguel médio por tipo e quartos</summary><div id="res"></div></details>
@@ -275,8 +285,8 @@ const tag=d=>d.vs==null?'':`<span class="tag ${d.vs<0?'low':'high'}">${d.vs>0?'+
 let cur=null,idx=0;
 function lista(){const t=ftipo.value,q=fq.value,r=freg.value,b=document.getElementById('q').value.toLowerCase(),o=ord.value;
  let L=D.filter(d=>(!t||d.tipo===t)&&(!q||d.q===q)&&(!r||d.regiao===r)&&(!b||(d.titulo+' '+d.desc+' '+d.bairro+' '+d.mob).toLowerCase().includes(b)));
- L.sort(o==='p'?(a,b)=>a.preco-b.preco:o==='P'?(a,b)=>b.preco-a.preco:(a,b)=>(a.vs??99)-(b.vs??99));
- g.innerHTML=L.length?L.map(d=>`<div class="c" data-id="${d.id}"><div class="n"><div class="ph" style="${bg(d,0)}"></div><span>📷 ${d.nf}</span></div><div class="b"><div class="p">${fmt(d.preco)}<span class="m">/mês</span></div><div class="t">${esc(d.titulo)}</div><div class="m">${esc(d.tipo)} · ${esc(d.q)}${d.bairro?' · '+esc(d.bairro):''}</div>${tag(d)}</div></div>`).join(''):'<div class="vazio">Nada encontrado.</div>'}
+ L.sort(o==='p'?(a,b)=>a.preco-b.preco:o==='P'?(a,b)=>b.preco-a.preco:o==='n'?(a,b)=>b.novo-a.novo||a.preco-b.preco:(a,b)=>(a.vs??99)-(b.vs??99));
+ g.innerHTML=L.length?L.map(d=>`<div class="c" data-id="${d.id}"><div class="n"><div class="ph" style="${bg(d,0)}"></div><span>📷 ${d.nf}</span></div><div class="b"><div class="p">${fmt(d.preco)}<span class="m">/mês</span>${d.novo?' <span class="tag low">🆕 novo</span>':''}</div><div class="t">${esc(d.titulo)}</div><div class="m">${esc(d.tipo)} · ${esc(d.q)}${d.bairro?' · '+esc(d.bairro):''}</div>${tag(d)}</div></div>`).join(''):'<div class="vazio">Nada encontrado.</div>'}
 function abrir(id){cur=D.find(d=>d.id===id);
  det.innerHTML=`<button class="x" id="fx">×</button><h2>${esc(cur.titulo)}</h2><div class="p">${fmt(cur.preco)}/mês</div>
  <div class="m">${esc(cur.tipo)} · ${esc(cur.q)}${cur.area?' · '+cur.area+' m²':''}${cur.mob?' · mobiliado: '+esc(cur.mob):''}<br>${esc(cur.bairro||'')} ${cur.regiao!=='não informado'?'('+esc(cur.regiao)+')':''}</div>${tag(cur)}
