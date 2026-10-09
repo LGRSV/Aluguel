@@ -690,6 +690,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1270412821897924": {
+  "cat": "casa",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    3000
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "1279408520345977": {
   "data_status": "2026-10-08",
   "local": "Palmas, TO",
@@ -887,6 +904,23 @@
   "titulo": "Imóvel comercial",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1343342741050043": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Porto Nacional, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    2500
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "Locação de salas mobiliadas em Luzimangues",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "1345358973947114": {
   "cat": "sobrado",
@@ -1829,6 +1863,23 @@
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1661689862238575": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "Quadra 1406 Sul Alameda 12, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    2700
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "1661736421718854": {
   "cat": "apartamento",
@@ -2970,6 +3021,23 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "2193139148083587": {
+  "cat": "sobrado",
+  "data_status": "2026-10-09",
+  "local": "Quadra 403 Sul Alameda 29, 17, Palmas, TO",
+  "mod": "sobrado · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    2800
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Sobrado geminado",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
+ },
  "2207938543322637": {
   "cat": "sala comercial",
   "data_status": "2026-10-08",
@@ -3941,6 +4009,23 @@
   "titulo": "Apartamento para locação",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "859379047202026": {
+  "cat": "apartamento",
+  "data_status": "2026-10-09",
+  "local": "ALC-SO 34 Avenida Orla, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    2700
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09"
  },
  "860031377180535": {
   "cat": "sobrado",
