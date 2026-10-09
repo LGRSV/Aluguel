@@ -1861,6 +1861,25 @@
   "ultimo_ativo": "2026-10-09",
   "verificado": "2026-10-09"
  },
+ "1640929314223611": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Quadra T33 Sul Rua Lo 21, 5, Palmas, TO",
+  "mod": "sala comercial · 1 quarto",
+  "precos": [
+   [
+    "2026-10-09",
+    700
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Valdirlene Rodrigues",
+  "vendedor_id": "pfbid0pNvRMpqc3ZbpLznxVsetKJvrtTLFNSYrBhNAubQSpgxqLkMGxePiVv6cWAhraaUel"
+ },
  "1642556997307504": {
   "cat": "sala comercial",
   "data_status": "2026-10-08",
@@ -2439,6 +2458,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1808950370449776": {
+  "cat": "kitnet",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "kitnet · 2 quartos",
+  "precos": [
+   [
+    "2026-10-09",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Viviane Soares",
+  "vendedor_id": "100016980338265"
+ },
  "1818341306191850": {
   "cat": "casa",
   "data_status": "2026-10-09",
@@ -2523,6 +2561,25 @@
   "titulo": "2 quartos 1 banheiro – Sobrado geminado",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1840453177138939": {
+  "cat": "casa",
+  "data_status": "2026-10-09",
+  "local": "Rua S 02, Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-09",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Paulo Alves",
+  "vendedor_id": "pfbid0zJ2DmqdgzvnibLR7VoQ7vPsQtfsaUC1RiCThXknrEQJVndSrE62iRbBfYPuSAUGyl"
  },
  "1858053052027799": {
   "cat": "kitnet",
@@ -3865,6 +3922,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "4151021265203590": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    675
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "Estúdio 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Andre Fellipe Cunha",
+  "vendedor_id": "pfbid024A1duWbT5wnAmeQQ8pXC3P9mpZHV9muhCr9L2Q2hQ8jErBAT5b3j9Fwksh2FMVm4l"
+ },
  "4190081804628368": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -4114,6 +4190,24 @@
   "titulo": "Apartamento para locação",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "842758055560749": {
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "Chácara para EVENTOS",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Dayana Bindala Vasconcelos Maciel",
+  "vendedor_id": "pfbid034UaQwye5KFeGiEhPRuEGCQ48xgM7hqjekBDnEJMDwpWHQCdfdNXhwkebPrh3UahEl"
  },
  "859379047202026": {
   "cat": "apartamento",
