@@ -29,6 +29,7 @@ from PIL import Image
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(os.path.dirname(AQUI), "marketplace-iphone13"))
+import golpistas  # noqa: E402
 import historico  # noqa: E402
 DADOS = os.path.join(AQUI, "dados")
 PLAN = os.path.join(AQUI, "planilhas")
@@ -185,11 +186,12 @@ def pagina(validos, hoje):
         D.append({"id": i["id"], "tipo": i["tipo"], "q": faixa_quartos(i["quartos"]), "regiao": i["regiao"] or "não informado",
                   "bairro": i["bairro"], "preco": i["mensal"], "titulo": i["titulo"], "mob": i["mobiliado"] or "",
                   "area": i["area_m2"], "desc": i["descricao"], "obs": i["obs"], "link": i["link"], "vs": vs,
-                  "media": media(v), "n": len(v), "tira": src, "nf": nf, "novo": i.get("novo", False)})
+                  "media": media(v), "n": len(v), "tira": src, "nf": nf, "novo": i.get("novo", False),
+                  "vendedor": i.get("vendedor", "")})
     medias = sorted(([f"{t} · {q}", media(v), len(v)] for (t, q), v in grupos.items() if len(v) >= 2), key=lambda x: -x[2])
     historico.definir_modelos(AQUI, {i["id"]: (i["tipo"], f"{i['tipo']} · {faixa_quartos(i['quartos'])}") for i in validos})
     resumo = {"medias": medias, "vendas": historico.resumo(historico.carregar(AQUI))}
-    html = MODELO.replace("__DADOS__", json.dumps(D, ensure_ascii=False).replace("</", "<\\/")) \
+    html = MODELO.replace("__GOLPE__", golpistas.pagina_js(AQUI)).replace("__DADOS__", json.dumps(D, ensure_ascii=False).replace("</", "<\\/")) \
         .replace("__RESUMO__", json.dumps(resumo, ensure_ascii=False)).replace("__DATA__", f"{hoje:%d/%m/%Y}")
     ids = {d["id"] for d in D}
     for f in glob.glob(os.path.join(AQUI, "s", "*.jpg")):  # quem saiu da página leva a tira junto
@@ -224,10 +226,13 @@ def main():
     hoje = date.today()
     H = historico.carregar(AQUI)
     validos = [i for i in validos if H.get(i["id"], {}).get("status", "ativo") == "ativo"]  # alugados/apagados saem da página
+    G = golpistas.carregar(AQUI)
+    validos = [i for i in validos if not golpistas.bloqueado(G, i["id"], H.get(i["id"], {}).get("vendedor_id"))]
     if "--diario" not in sys.argv:  # planilhas só na coleta completa (o histórico do Excel é semanal)
         print("planilha:", planilha(validos, todos, hoje))
     for i in validos:
         i["novo"] = H.get(i["id"], {}).get("primeiro_visto", "") >= (hoje - timedelta(days=1)).isoformat()
+        i["vendedor"] = H.get(i["id"], {}).get("vendedor", "")
     arq, mb = pagina(validos, hoje)
     print(f"página: {arq} ({mb:.1f} MB)")
     por_tipo = defaultdict(list)
@@ -282,7 +287,7 @@ main{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:
 <main id="g"></main></div>
 <div id="mod"><div class="box"><div class="gal"><div class="ph" id="big"></div><button class="nav prev" id="pv">‹</button><button class="nav next" id="nx">›</button></div><div class="det" id="det"></div></div></div>
 <script>
-const D=__DADOS__,R=__RESUMO__;
+const D=__DADOS__,R=__RESUMO__;__GOLPE__
 const fmt=v=>'R$ '+Number(v).toLocaleString('pt-BR'),esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const bg=(d,i)=>d.nf?`background-image:url(${d.tira});background-size:${d.nf*100}% 100%;background-position:${d.nf>1?i/(d.nf-1)*100:0}% 0`:'';
 document.getElementById('sub').textContent=`Coleta de __DATA__ · ${D.length} imóveis para alugar (mensal) · confira no Facebook se o anúncio ainda está ativo`;
@@ -298,7 +303,7 @@ function lista(){const t=ftipo.value,q=fq.value,r=freg.value,b=document.getEleme
 function abrir(id){cur=D.find(d=>d.id===id);
  det.innerHTML=`<button class="x" id="fx">×</button><h2>${esc(cur.titulo)}</h2><div class="p">${fmt(cur.preco)}/mês</div>
  <div class="m">${esc(cur.tipo)} · ${esc(cur.q)}${cur.area?' · '+cur.area+' m²':''}${cur.mob?' · mobiliado: '+esc(cur.mob):''}<br>${esc(cur.bairro||'')} ${cur.regiao!=='não informado'?'('+esc(cur.regiao)+')':''}</div>${tag(cur)}
- ${cur.obs?`<div class="m" style="margin-top:6px">${esc(cur.obs)}</div>`:''}<div class="acts"><a href="${cur.link}" target="_blank" rel="noopener">Abrir no Facebook</a></div><div class="desc">${esc(cur.desc||'(sem descrição)')}</div>`;
+ ${cur.obs?`<div class="m" style="margin-top:6px">${esc(cur.obs)}</div>`:''}<div class="acts"><a href="${cur.link}" target="_blank" rel="noopener">Abrir no Facebook</a></div><div class="desc">${esc(cur.desc||'(sem descrição)')}</div>${golpeBotao(cur)}`;
  fx.onclick=fechar;foto(0);mod.style.display='block';document.body.style.overflow='hidden'}
 function foto(i){idx=(i+Math.max(cur.nf,1))%Math.max(cur.nf,1);big.style.cssText=bg(cur,idx);pv.style.display=nx.style.display=cur.nf>1?'':'none'}
 function fechar(){mod.style.display='none';document.body.style.overflow='';cur=null}
