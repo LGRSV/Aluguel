@@ -956,6 +956,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1356336994224859": {
+  "cat": "casa",
+  "data_status": "2026-10-09",
+  "local": "Quadra 404 Norte Alameda 17A, Palmas, TO",
+  "mod": "casa · 1 quarto",
+  "precos": [
+   [
+    "2026-10-09",
+    600
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Airim Vitoria",
+  "vendedor_id": "pfbid0gPsUGWmBm5VcQ6PFpazDwYSWUHX2eaTDcrZcK5iYtjZQxnKCGYPUoEZBK7KdujnTl"
+ },
  "1356454032545592": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
@@ -1211,6 +1230,24 @@
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1419896493030848": {
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    850000
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "Apartamento no Diamante do Lago com 3/4 sendo 2 suítes. Ao lado do Shopping Capim Dourado.",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Wallison Arruda",
+  "vendedor_id": "pfbid09Nk5wmFyoH94sWHqqR7UUMUwhTBANVNtgeCdDGqrLVGro9WMLpKgXSFEpypx7e91l"
  },
  "1422175896427697": {
   "data_status": "2026-10-08",
@@ -2890,6 +2927,25 @@
   "titulo": "Aluga-se sobrado 3/4",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1986025202077009": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-09",
+    4650
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Amanda Martins II",
+  "vendedor_id": "pfbid0SDr3u2sZvSv52okt2fM4tyWjnLknXhqSuZhfKaeBdaHcctgTwRhwrMvDS1Co4A69l"
  },
  "1993523461359557": {
   "data_status": "2026-10-08",
