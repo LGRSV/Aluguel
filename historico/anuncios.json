@@ -548,6 +548,24 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1106632978426102": {
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    199
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Priscyla Sousa",
+  "vendedor_id": "pfbid02JuM1U3KRvCHq9zVktfV9PWthML6XCjXaQYvBXoLF6wGeXGtFx7YbCHY12HL7e7tFl"
+ },
  "1125962719999947": {
   "cat": "sobrado",
   "data_status": "2026-10-08",
@@ -1417,6 +1435,24 @@
   "titulo": "2 quartos 2 banheiros Apartamento",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1465090402143805": {
+  "data_status": "2026-10-09",
+  "local": "Rua P. 06, 8, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    1
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Rogerio de Morais",
+  "vendedor_id": "1678518367"
  },
  "1468992021663820": {
   "cat": "casa",
@@ -3249,6 +3285,24 @@
   "titulo": "​🏢 OPORTUNIDADE: APARTAMENTO 405 n DE 2 QUARTOS PRONTO PARA MORAR! 🏢atenção localizado 405 norte",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "2166432740753668": {
+  "data_status": "2026-10-09",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-09",
+    500
+   ]
+  ],
+  "primeiro_visto": "2026-10-09",
+  "status": "ativo",
+  "titulo": "Estúdio 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-09",
+  "ultimo_ativo": "2026-10-09",
+  "vendedor": "Jhulya Fonseca",
+  "vendedor_id": "100014891670874"
  },
  "2173818643163360": {
   "cat": "apartamento",
