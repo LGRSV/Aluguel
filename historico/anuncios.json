@@ -82,7 +82,8 @@
   "status": "ativo",
   "titulo": "Chácara recantos dos Buritis",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1025442323598026": {
   "data_status": "2026-10-08",
@@ -466,7 +467,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1087963173945511": {
   "data_status": "2026-10-08",
@@ -568,7 +570,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1099075219202504": {
   "cat": "kitnet",
@@ -724,7 +727,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1138961722141058": {
   "cat": "apartamento",
@@ -771,7 +775,8 @@
   "status": "ativo",
   "titulo": "VENHA FAZER PARTE DO NOSSO GRUPO DE PORTO NACIONAL",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1209586844649315": {
   "data_status": "2026-10-08",
@@ -872,7 +877,8 @@
   "status": "ativo",
   "titulo": "2 quartos 4 banheiros – Casa em Vila",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1290998936154384": {
   "data_status": "2026-10-08",
@@ -973,7 +979,8 @@
   "status": "ativo",
   "titulo": "Alugo apartamento 100% mobiliado",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1304307357991807": {
   "data_status": "2026-10-08",
@@ -1074,7 +1081,8 @@
   "status": "ativo",
   "titulo": "4 quartos 4 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1353188736949933": {
   "data_status": "2026-10-08",
@@ -1085,7 +1093,8 @@
   "status": "ativo",
   "titulo": "Espaço para locação",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1356336994224859": {
   "cat": "casa",
@@ -1385,7 +1394,7 @@
  },
  "1418235652997978": {
   "cat": "casa",
-  "data_status": "2026-10-08",
+  "data_status": "2026-10-10",
   "local": "Palmas, TO",
   "mod": "casa · 2 quartos",
   "precos": [
@@ -1395,10 +1404,11 @@
    ]
   ],
   "primeiro_visto": "2026-10-08",
-  "status": "ativo",
+  "status": "vendido",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-08",
+  "verificado": "2026-10-10"
  },
  "1419896493030848": {
   "data_status": "2026-10-09",
@@ -1848,7 +1858,8 @@
   "status": "ativo",
   "titulo": "3 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1571966590878003": {
   "cat": "apartamento",
@@ -2032,7 +2043,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1618173286556513": {
   "cat": "sala comercial",
@@ -2138,7 +2150,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Sobrado geminado",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1656515599203384": {
   "cat": "casa",
@@ -2155,7 +2168,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1661689862238575": {
   "cat": "apartamento",
@@ -2224,7 +2238,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1680706599703363": {
   "data_status": "2026-10-08",
@@ -2375,7 +2390,8 @@
   "status": "ativo",
   "titulo": "3 quartos 3 banheiros Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1734725904263318": {
   "cat": "kitnet",
@@ -2529,7 +2545,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1765805751235022": {
   "cat": "apartamento",
@@ -2718,7 +2735,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1806913263785428": {
   "cat": "casa",
@@ -2805,7 +2823,8 @@
   "status": "ativo",
   "titulo": "3 quartos 2 banheiros Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1825924598823016": {
   "cat": "apartamento",
@@ -2875,7 +2894,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1859470462088857": {
   "cat": "sala comercial",
@@ -2908,7 +2928,8 @@
   "status": "ativo",
   "titulo": "Casa de eventos promoção para essa sexta",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1864034934566896": {
   "cat": "apartamento",
@@ -2942,7 +2963,8 @@
   "status": "ativo",
   "titulo": "Saia já do aluguel | piscina 🏠",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1876355143781378": {
   "cat": "casa",
@@ -3010,7 +3032,8 @@
   "status": "ativo",
   "titulo": "1 quarto 1 banheiro – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "1903113270355442": {
   "cat": "kitnet",
@@ -3234,7 +3257,8 @@
   "status": "ativo",
   "titulo": "3 quartos 2 banheiros – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2042685069689240": {
   "cat": "sala comercial",
@@ -3337,7 +3361,8 @@
   "status": "ativo",
   "titulo": "Aluga-se+sobrado+mobiliado+1204",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2107885206460862": {
   "data_status": "2026-10-08",
@@ -3387,7 +3412,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2129879927574637": {
   "cat": "casa",
@@ -3491,7 +3517,8 @@
   "status": "ativo",
   "titulo": "​🏢 OPORTUNIDADE: APARTAMENTO 405 n DE 2 QUARTOS PRONTO PARA MORAR! 🏢atenção localizado 405 norte",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2166432740753668": {
   "data_status": "2026-10-09",
@@ -3526,7 +3553,8 @@
   "status": "ativo",
   "titulo": "Alugo AP 405 SUL",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2193139148083587": {
   "cat": "sobrado",
@@ -3611,7 +3639,8 @@
   "status": "ativo",
   "titulo": "2 quartos 3 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2253727225374657": {
   "cat": "sala comercial",
@@ -3827,7 +3856,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2523849174788734": {
   "cat": "casa",
@@ -4113,7 +4143,8 @@
   "status": "ativo",
   "titulo": "2 quartos 2 banheiros – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "2871678383232478": {
   "cat": "casa",
@@ -4244,7 +4275,8 @@
   "status": "ativo",
   "titulo": "Chácara recantos dos Buritis",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "3186884534844820": {
   "data_status": "2026-10-08",
@@ -4260,7 +4292,8 @@
   "status": "ativo",
   "titulo": "2024 Honda cg160",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "3489829834512358": {
   "data_status": "2026-10-08",
@@ -4416,7 +4449,8 @@
   "status": "ativo",
   "titulo": "ALUGOU SALA COMERCIAL",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "4626725134208014": {
   "cat": "sala comercial",
@@ -4466,7 +4500,8 @@
   "status": "ativo",
   "titulo": "ALUGAND0 CASA TO",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "498103436641485": {
   "cat": "casa",
@@ -4516,7 +4551,8 @@
   "status": "ativo",
   "titulo": "3 quartos 4 banheiros – Casa",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "674433635023151": {
   "data_status": "2026-10-08",
@@ -4650,7 +4686,8 @@
   "status": "ativo",
   "titulo": "Aluga- se sobrado 405 sul",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "866134349728991": {
   "data_status": "2026-10-08",
@@ -4753,7 +4790,8 @@
   "status": "ativo",
   "titulo": "aluga- se casa 307 sul",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "929135809989907": {
   "cat": "apartamento",
@@ -4787,7 +4825,8 @@
   "status": "ativo",
   "titulo": "Aluga se sobrado 305 sul",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "944510881971507": {
   "cat": "outro",
@@ -4889,7 +4928,8 @@
   "status": "ativo",
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
-  "ultimo_ativo": "2026-10-08"
+  "ultimo_ativo": "2026-10-10",
+  "verificado": "2026-10-10"
  },
  "968351476206143": {
   "cat": "apartamento",
