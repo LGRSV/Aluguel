@@ -2704,6 +2704,25 @@
   "vendedor": "Andressa Araújo",
   "vendedor_id": "100038799169362"
  },
+ "1796609148028929": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-10",
+  "local": "Porto Nacional, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-10",
+    3500
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "Estúdio 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Eliania Mi Lincom",
+  "vendedor_id": "pfbid02o2WSUKgMtCNG4JjfppnGn3xJF6hJbvYE4k5fXC6tyDScmt1Vbtr9LfpegLW9t8Mvl"
+ },
  "1797985968286790": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
