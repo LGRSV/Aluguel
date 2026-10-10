@@ -2565,6 +2565,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1765929391369534": {
+  "cat": "casa",
+  "data_status": "2026-10-10",
+  "local": "Porto Nacional, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-10",
+    3800
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "3 quartos 3 banheiros – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Alvany P. Machado Júnior",
+  "vendedor_id": "pfbid031txbwZHwHrjfvZKBRxZrJJjFuTUChBDUpB2DgDeHyRaXQbSXi2JPWe7L4UdhU29pl"
+ },
  "1772363020679279": {
   "cat": "sala comercial",
   "data_status": "2026-10-09",
@@ -2808,6 +2827,24 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1819939605670361": {
+  "data_status": "2026-10-10",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-10",
+    24000
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "(Saia do aluguel com esse apartamento no Lago Sul 2 pelo Minha Casa Minha Vida)😻🙌🏻🤝",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Kauane Morais",
+  "vendedor_id": "pfbid0wEStCmiM9i9cWdVagLrGgDa3bncDu2jNxb3NDRuRq81knKRKUWp9rMJUayc8wb8Nl"
+ },
  "1825004588669210": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -3034,6 +3071,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-10",
   "verificado": "2026-10-10"
+ },
+ "1895119648519414": {
+  "cat": "casa",
+  "data_status": "2026-10-10",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-10",
+    1400
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "🟢🟢 CAMPOS IMOBILIÁRIA ALUGA - 🏡 CASA INDIVIDUAL | JARDIM AURENY II🟢🟢",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Silmara Alves",
+  "vendedor_id": "pfbid02WmhS9vh77MZS9FzbaQvmCBG6vQR58F3pAxYVw76kBw9YrMSsiiVsNZgSzk849g9rl"
  },
  "1903113270355442": {
   "cat": "kitnet",
