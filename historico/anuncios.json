@@ -33,6 +33,24 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1012742795181633": {
+  "data_status": "2026-10-10",
+  "local": "Paraíso do Tocantins, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-10",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "ALUGA-SE",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Zaquew Dv",
+  "vendedor_id": "100073732627173"
+ },
  "1015406634881173": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
@@ -165,6 +183,25 @@
   "titulo": "2 quartos 1 banheiro Apartamento",
   "ultima_coleta": "2026-10-09",
   "ultimo_ativo": "2026-10-09"
+ },
+ "1043243865437868": {
+  "cat": "apartamento",
+  "data_status": "2026-10-10",
+  "local": "Quadra 1406 Sul Alameda 12, Palmas, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-10",
+    2100
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Lucas Miranda",
+  "vendedor_id": "pfbid0vPJUWLSfYeTwUGm9jw3woSMxeKWwAqHNjqavPKZYJhLrLWP11ezCyRRnLyDcRUkhl"
  },
  "1044144855294650": {
   "cat": "casa",
@@ -3235,6 +3272,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "2143605022894440": {
+  "cat": "sala comercial",
+  "data_status": "2026-10-10",
+  "local": "Quadra 404 Sul Avenida Lo 11, 13, Palmas, TO",
+  "mod": "sala comercial · —",
+  "precos": [
+   [
+    "2026-10-10",
+    1600
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Pedro Vargas Machado",
+  "vendedor_id": "pfbid0ns7m27fuUagk4ZP67F6ter6hM7wTd7qmMkaitckEgTHoKZarVrj72gjNpJ1gP3Hel"
+ },
  "2149444142600833": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
@@ -3788,6 +3844,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "28244573541910339": {
+  "cat": "kitnet",
+  "data_status": "2026-10-10",
+  "local": "Quadra 103 Norte Rua no 11, 29, Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-10",
+    1700
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Marcelo Barreira de Oliveira",
+  "vendedor_id": "pfbid0mdasHNKXPkNDsgNhAC2GZxLztgsvpNv6V79KU7cMbXnTZgq63T2zk8tU7WjRjZYol"
+ },
  "28263190126707301": {
   "cat": "apartamento",
   "data_status": "2026-10-09",
@@ -4105,6 +4180,24 @@
   "ultimo_ativo": "2026-10-09",
   "vendedor": "Andre Fellipe Cunha",
   "vendedor_id": "pfbid024A1duWbT5wnAmeQQ8pXC3P9mpZHV9muhCr9L2Q2hQ8jErBAT5b3j9Fwksh2FMVm4l"
+ },
+ "4163951037236453": {
+  "data_status": "2026-10-10",
+  "local": "Avenida Rio Negro, 27, Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-10",
+    1800
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "2 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Vania Maria Freitas Conceição",
+  "vendedor_id": "pfbid02BEXtjovUWUBUCo2xaLqLFQ58XyMFMB6kycWAqk8HTrSnaMcMNEvHFEFgpBj8vzf4l"
  },
  "4190081804628368": {
   "cat": "casa",
