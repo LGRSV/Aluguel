@@ -517,6 +517,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1093619296522973": {
+  "cat": "outro",
+  "data_status": "2026-10-10",
+  "local": "Porto Nacional, TO",
+  "mod": "outro · —",
+  "precos": [
+   [
+    "2026-10-10",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "Estúdio 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Marta Gonçalves",
+  "vendedor_id": "pfbid02sxkNEkUkykGvdBTGSxwav3VQbdTFS4EtT6uishg6ozK3dBc7jz1LMH5rNL8py2gil"
+ },
  "1095294919576128": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
@@ -550,6 +569,25 @@
   "titulo": "2 quartos 1 banheiro – Apartamento",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1099075219202504": {
+  "cat": "kitnet",
+  "data_status": "2026-10-10",
+  "local": "Palmas, TO",
+  "mod": "kitnet · —",
+  "precos": [
+   [
+    "2026-10-10",
+    750
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "Alugamos kantinete para uma pessoa morar livre de água e luz",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Maria Marta",
+  "vendedor_id": "pfbid088fYjEmpv1AjmxQDjUFp3rC9jPnaH51AyU6DcTb7jMEWveqgsnzYMqVXcuUjdEmVl"
  },
  "1100163669369557": {
   "cat": "quarto",
@@ -602,6 +640,25 @@
   "ultimo_ativo": "2026-10-09",
   "vendedor": "Priscyla Sousa",
   "vendedor_id": "pfbid02JuM1U3KRvCHq9zVktfV9PWthML6XCjXaQYvBXoLF6wGeXGtFx7YbCHY12HL7e7tFl"
+ },
+ "1115608677819996": {
+  "cat": "kitnet",
+  "data_status": "2026-10-10",
+  "local": "Rua 33, 15, Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-10",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Sobrado geminado",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Kleber Almeida",
+  "vendedor_id": "pfbid048A4jkweR4nsd99qbfxThSG4JaDb6Ykv5fLi2y5DkoxdZZrN4NuECmAw9UFiDsN5l"
  },
  "1125962719999947": {
   "cat": "sobrado",
@@ -2593,6 +2650,24 @@
   "ultimo_ativo": "2026-10-09",
   "verificado": "2026-10-09"
  },
+ "1792655655084928": {
+  "data_status": "2026-10-10",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-10",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Andressa Araújo",
+  "vendedor_id": "100038799169362"
+ },
  "1797985968286790": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
@@ -2953,6 +3028,25 @@
   "titulo": "1 quarto 1 banheiro Apartamento",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "1911106186961847": {
+  "cat": "casa",
+  "data_status": "2026-10-10",
+  "local": "Porto Nacional, TO",
+  "mod": "casa · 3 quartos",
+  "precos": [
+   [
+    "2026-10-10",
+    800
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "3 quartos 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Marta Gonçalves",
+  "vendedor_id": "pfbid02sxkNEkUkykGvdBTGSxwav3VQbdTFS4EtT6uishg6ozK3dBc7jz1LMH5rNL8py2gil"
  },
  "1913209119345248": {
   "cat": "casa",
