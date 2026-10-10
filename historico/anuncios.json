@@ -669,6 +669,25 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "1138961722141058": {
+  "cat": "apartamento",
+  "data_status": "2026-10-10",
+  "local": "Porto Nacional, TO",
+  "mod": "apartamento · 2 quartos",
+  "precos": [
+   [
+    "2026-10-10",
+    1000
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Apartamento",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Mabia Santos",
+  "vendedor_id": "100003444654538"
+ },
  "1154191517073645": {
   "cat": "apartamento",
   "data_status": "2026-10-08",
@@ -1165,6 +1184,25 @@
   "ultimo_ativo": "2026-10-09",
   "verificado": "2026-10-09"
  },
+ "1388618293435143": {
+  "cat": "kitnet",
+  "data_status": "2026-10-10",
+  "local": "Quadra 412 Norte Alameda 3, Palmas, TO",
+  "mod": "kitnet · 1 quarto",
+  "precos": [
+   [
+    "2026-10-10",
+    1200
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Leonardo Almeida",
+  "vendedor_id": "100007905870830"
+ },
  "1391452693148117": {
   "cat": "casa",
   "data_status": "2026-10-09",
@@ -1181,6 +1219,25 @@
   "titulo": "2 quartos 2 banheiros – Casa",
   "ultima_coleta": "2026-10-09",
   "ultimo_ativo": "2026-10-09"
+ },
+ "1396936692600745": {
+  "cat": "casa",
+  "data_status": "2026-10-10",
+  "local": "Palmas, TO",
+  "mod": "casa · 2 quartos",
+  "precos": [
+   [
+    "2026-10-10",
+    1100
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "2 quartos 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Lucio Gomes",
+  "vendedor_id": "100003757996528"
  },
  "1398553259159946": {
   "cat": "sala comercial",
@@ -4569,6 +4626,24 @@
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
  },
+ "924989620438436": {
+  "data_status": "2026-10-10",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-10",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "1 quarto 2 banheiros – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Lucio Gomes",
+  "vendedor_id": "100003757996528"
+ },
  "926327810424538": {
   "cat": "casa",
   "data_status": "2026-10-08",
@@ -4772,6 +4847,24 @@
   "titulo": "Alugo sala comercial",
   "ultima_coleta": "2026-10-08",
   "ultimo_ativo": "2026-10-08"
+ },
+ "978993847846555": {
+  "data_status": "2026-10-10",
+  "local": "Palmas, TO",
+  "mod": "",
+  "precos": [
+   [
+    "2026-10-10",
+    900
+   ]
+  ],
+  "primeiro_visto": "2026-10-10",
+  "status": "ativo",
+  "titulo": "1 quarto 1 banheiro – Casa",
+  "ultima_coleta": "2026-10-10",
+  "ultimo_ativo": "2026-10-10",
+  "vendedor": "Lucio Gomes",
+  "vendedor_id": "100003757996528"
  },
  "988276487449300": {
   "cat": "casa",
